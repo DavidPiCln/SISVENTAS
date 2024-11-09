@@ -1,0 +1,22 @@
+
+.rounded-square {
+    width: 100px;                /* Ancho fijo para mantener la forma */
+    height: 100px;               /* Altura fija para mantener la forma */
+    object-fit: cover;          /* Recorta la imagen para llenar el contenedor */
+    object-position: center;    /* Centra la imagen en el contenedor */
+    border-radius: 4px;         /* Bordes redondeados (ajusta el valor según prefieras) */
+}
+
+
+
+
+table {
+width: 100%;
+border-collapse: collapse;
+}
+
+th, td {        /* Centra el texto horizontalmente */
+vertical-align: bottom;       /* Centra el contenido verticalmente */
+
+           /* Ajusta la altura según sea necesario */
+} 
